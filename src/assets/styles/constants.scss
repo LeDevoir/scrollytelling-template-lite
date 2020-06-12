@@ -1,0 +1,34 @@
+// ***** Colors *****
+$light-gray: #d0d0d0;
+$medium-gray: #616163;
+$white: #fff;
+$semi-transparent-white: rgba($white, 0.9);
+
+// ***** Dimensions *****
+$small-screen: 576px;
+$medium-screen: 768px;
+$large-screen: 992px;
+$extra-large-screen: 1200px;
+
+// ***** Fonts *****
+$font-family: sans-serif;
+
+// ***** General *****
+$text-color: #222;
+$text-max-width: 700px;
+$small-screen-base-font-size: 10pt;
+
+// ***** Main *****
+$main-padding-left-right: 25px;
+$main-padding: 0 $main-padding-left-right;
+
+$step-max-width: 400px;
+$step-text-color: $medium-gray;
+$step-heading-font-size: 1.2em;
+$step-font-size: 1.05em;
+$step-padding: 10px 30px;
+$step-background-color: $semi-transparent-white;
+$step-border-color: $light-gray;
+
+$vis-width: 58%;
+$vis-height: 100vh;
